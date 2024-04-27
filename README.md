@@ -1,1 +1,9 @@
 Cloudflare Worker 2 Vless & Sub
+
+UUID	
+PROXYIP
+SOCKS5
+SUB	
+SUBAPI	
+SUBCONFIG
+RPROXYIP
